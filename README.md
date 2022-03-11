@@ -20,6 +20,8 @@ Customers can have their details updated.
 
 Customers can be deleted from the database.
 
+**Application Overview**
+![Screenshot 2022-03-11 134450](https://user-images.githubusercontent.com/91902093/157860963-78377442-35b4-41d5-8b6a-29667e15ea62.png)
 **HomePage**
 ![customer-tracker-homepage](https://user-images.githubusercontent.com/91902093/157616958-2549936d-af63-41a4-9bca-082cf70232d1.png)
 **New Customer Page**
